@@ -1,4 +1,5 @@
 # Mountain-Parallax-Scrolling-Animation-Effect  
 
-Link :- https://dev-aakif.github.io/Mountain-Parallax/
+Link :- 
+        https://mountain-parallax.vercel.app/
  
